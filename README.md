@@ -22,11 +22,11 @@
   <a href="https://nodejs.org/en/" target="_blank">
     <img alt="nodejs" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
   </a>
-  <a href="https://www.python.org/about/gettingstarted/" target="_blank">
-    <img alt="python" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="postgresql" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> 
   </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img alt="php" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img alt="mongodb" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img alt="git" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
@@ -35,10 +35,10 @@
 
 ### :small_blue_diamond: Connect with me: 
 <div>
-  <a href="mailto:lucasaraujodev.contact@gmail.com" target="_blank">
+  <a href="mailto:contato@lucasaraujodev.com" target="_blank">
     <img alt ="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="www.linkedin.com/in/lucas-dev-" target="_blank">
+  <a href="www.linkedin.com/in/lucasaraujo-dev" target="_blank">
     <img alt ="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://twitter.com/lucasaraujodev" target="_blank">
